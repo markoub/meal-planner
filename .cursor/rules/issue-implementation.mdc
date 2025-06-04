@@ -1,0 +1,14 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+- checkout to main branch
+- Fetch next open issue in chronological order using GitHub MCP.
+- Create a new branch based on that issue
+- implement test (for backend api test, for frontend e2e test in testig folder)
+- implement functionality
+- make sure test passes
+- commit code
+- close the issue
+- create pull request
